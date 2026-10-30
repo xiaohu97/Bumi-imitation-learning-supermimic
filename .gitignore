@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Licensed separately, not redistributable (see assets/body_models/README.md, README.md)
+assets/body_models/*
+!assets/body_models/README.md
+data/
+
+# Training and run outputs
+logs/
+outputs/
+out/
+*.pt
+MUJOCO_LOG.TXT

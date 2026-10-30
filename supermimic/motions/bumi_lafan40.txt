@@ -1,0 +1,43 @@
+# Noetix Bumi run 2026-10-29: 40 LAFAN1 clips (paper Fig. 4a), 30 fps CSV, relative to this file:
+# retarget/bvh_to_robot_batch_headless.py -> retarget/ground_retargets.py -> data/lafan1_bumi_grounded/.
+# noetix_bumi_lab's mimic_data/bumi/2.npz is left out: recorded with an older leg geometry (hip-pitch origin 5.5 cm off bumi.urdf).
+../../data/lafan1_bumi_grounded/dance1_subject1.csv
+../../data/lafan1_bumi_grounded/dance1_subject2.csv
+../../data/lafan1_bumi_grounded/dance1_subject3.csv
+../../data/lafan1_bumi_grounded/dance2_subject1.csv
+../../data/lafan1_bumi_grounded/dance2_subject2.csv
+../../data/lafan1_bumi_grounded/dance2_subject3.csv
+../../data/lafan1_bumi_grounded/dance2_subject4.csv
+../../data/lafan1_bumi_grounded/dance2_subject5.csv
+../../data/lafan1_bumi_grounded/fallAndGetUp1_subject1.csv
+../../data/lafan1_bumi_grounded/fallAndGetUp1_subject4.csv
+../../data/lafan1_bumi_grounded/fallAndGetUp1_subject5.csv
+../../data/lafan1_bumi_grounded/fallAndGetUp2_subject2.csv
+../../data/lafan1_bumi_grounded/fallAndGetUp2_subject3.csv
+../../data/lafan1_bumi_grounded/fallAndGetUp3_subject1.csv
+../../data/lafan1_bumi_grounded/fight1_subject2.csv
+../../data/lafan1_bumi_grounded/fight1_subject3.csv
+../../data/lafan1_bumi_grounded/fight1_subject5.csv
+../../data/lafan1_bumi_grounded/fightAndSports1_subject1.csv
+../../data/lafan1_bumi_grounded/fightAndSports1_subject4.csv
+../../data/lafan1_bumi_grounded/jumps1_subject1.csv
+../../data/lafan1_bumi_grounded/jumps1_subject2.csv
+../../data/lafan1_bumi_grounded/jumps1_subject5.csv
+../../data/lafan1_bumi_grounded/run1_subject2.csv
+../../data/lafan1_bumi_grounded/run1_subject5.csv
+../../data/lafan1_bumi_grounded/run2_subject1.csv
+../../data/lafan1_bumi_grounded/run2_subject4.csv
+../../data/lafan1_bumi_grounded/sprint1_subject2.csv
+../../data/lafan1_bumi_grounded/sprint1_subject4.csv
+../../data/lafan1_bumi_grounded/walk1_subject1.csv
+../../data/lafan1_bumi_grounded/walk1_subject2.csv
+../../data/lafan1_bumi_grounded/walk1_subject5.csv
+../../data/lafan1_bumi_grounded/walk2_subject1.csv
+../../data/lafan1_bumi_grounded/walk2_subject3.csv
+../../data/lafan1_bumi_grounded/walk2_subject4.csv
+../../data/lafan1_bumi_grounded/walk3_subject1.csv
+../../data/lafan1_bumi_grounded/walk3_subject2.csv
+../../data/lafan1_bumi_grounded/walk3_subject3.csv
+../../data/lafan1_bumi_grounded/walk3_subject4.csv
+../../data/lafan1_bumi_grounded/walk3_subject5.csv
+../../data/lafan1_bumi_grounded/walk4_subject1.csv

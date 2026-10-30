@@ -1,0 +1,2 @@
+# The sample clip (no training data needed): check_offline.py, check_sim.py.
+../../examples/langzi/langzi_bumi.csv

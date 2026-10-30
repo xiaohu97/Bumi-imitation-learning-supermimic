@@ -1,0 +1,5 @@
+{
+ "note": "Frames of video/浪子踢球.mp4 (30 fps, 2240 frames). Left panel = teacher, cropped x 0-800. Gaps = title cards with face close-ups, mid-dance zoom close-ups, and the final 34 frames (different split-screen layout); found from frame differences.",
+ "gaps": [[0,34],[254,294],[429,479],[686,746],[934,970],[1168,1201],[1363,1390],[1590,1636],[1816,1879],[1942,1985],[2082,2148],[2206,2240]],
+ "moves": [["闪身步",34,254],["浪子踢球",294,429],["栽楔子招手式",479,686],["扫地步后撤",746,934],["猴子绕花线",970,1168],["风摆柳碎步",1201,1363],["勾步",1390,1590],["狗熊哆嗦毛",1636,1942],["摇头晃脑",1985,2206]]
+}

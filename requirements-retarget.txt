@@ -1,0 +1,14 @@
+# Retargeting and rendering env, Python 3.10 (the versions everything here was run with).
+daqp==0.8.7
+imageio==2.37.3
+imageio-ffmpeg==0.6.0
+mink==1.1.1
+mujoco==3.9.0
+numpy==2.2.6
+opencv-python==4.13.0.92
+pillow==12.2.0
+qpsolvers==4.12.0
+rich==15.0.0
+scipy==1.15.3
+smplx==0.1.28
+torch==2.6.0
