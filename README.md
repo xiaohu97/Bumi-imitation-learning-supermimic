@@ -175,7 +175,9 @@ PYTHON=$(which python) supermimic/eval_after_train.sh <run> 3             # 等�
 
 Noetix 训练里的推搡、躯干质量 ±3 kg、PD 增益 ±20% 随机化没有加。Noetix 自带的 `mimic_data/bumi/2.npz` 没进训练集，它是旧版腿部几何录的（21 个关节坐标系里 14 个和 `bumi.urdf` 不同）。
 
-## 第三方内容和许可证
+## 许可证
+
+本仓库自己的代码使用 [MIT](LICENSE)。下表中的第三方内容保留各自的许可证，`demo/` 和 `examples/langzi/` 不在 MIT 授权范围内（见表后说明）。
 
 | 内容 | 来源 | 许可证 |
 |---|---|---|
@@ -185,4 +187,4 @@ Noetix 训练里的推搡、躯干质量 ±3 kg、PD 增益 ±20% 随机化没�
 | SMPL-X 人体模型 | [smpl-x.is.tue.mpg.de](https://smpl-x.is.tue.mpg.de/) | 不在仓库内，需自行下载 |
 | LAFAN1 数据集 | [Ubisoft La Forge](https://github.com/ubisoft/ubisoft-laforge-animation-dataset) | 不在仓库内，需自行下载 |
 
-`demo/langzi_bumi_sim.mp4` 里的原视频及其音轨版权归原作者，这里只用来展示动作来源。
+`demo/langzi_bumi_sim.mp4` 里的原视频及其音轨版权归原作者，这里只用来展示动作来源。`examples/langzi/` 的骨架和参考动作由这段视频估计得到，仅作为运行示例提供。
